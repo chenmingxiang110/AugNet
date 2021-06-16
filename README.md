@@ -12,21 +12,19 @@ The left most images are the queries. The images are sorted based on the distanc
 
 <img src="./imgs/cartoon_faces.png" width="700">
 
-### Pokemon:
+Reference: https://www.kaggle.com/mylesoneill/tagged-anime-illustrations
+
+### Pokemons:
 
 <img src="./imgs/cartoon_pokemon2.png" width="700">
+
+Reference: https://veekun.com/dex/downloads
 
 ### Humans Sketchs:
 
 <img src="./imgs/cartoon_sketch.png" width="700">
 
-### Data Source:
-
-The Anime Illustrations Dataset: https://www.kaggle.com/mylesoneill/tagged-anime-illustrations
-
-The Pokemon Dataset: https://veekun.com/dex/downloads
-
-The Humans Sketchs Dataset: http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/
+Reference: http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/
 
 ## How to use
 
