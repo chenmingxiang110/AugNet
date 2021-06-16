@@ -4,11 +4,11 @@ In our work, we propose AugNet, a new deep learning training paradigm to learn i
 
 ## Image Retrieval Examples:
 
-<img src="../imgs/cartoon_faces.png" width="600">
+<img src="./imgs/cartoon_faces.png" width="600">
 
-<img src="../imgs/cartoon_pokemon2.png" width="600">
+<img src="./imgs/cartoon_pokemon2.png" width="600">
 
-<img src="../imgs/cartoon_sketch.png" width="600">
+<img src="./imgs/cartoon_sketch.png" width="600">
 
 ## How to use
 
