@@ -6,11 +6,21 @@ In our work, we propose AugNet, a new deep learning training paradigm to learn i
 
 ## Image Retrieval Examples:
 
+The left most images are the queries. The images are sorted based on the distances of image embeddings.
+
 <img src="./imgs/cartoon_faces.png" width="600">
 
 <img src="./imgs/cartoon_pokemon2.png" width="600">
 
 <img src="./imgs/cartoon_sketch.png" width="600">
+
+Data Source:
+
+The Anime Illustrations Dataset: https://www.kaggle.com/mylesoneill/tagged-anime-illustrations
+
+The Pokemon Dataset: https://veekun.com/dex/downloads
+
+The Humans Sketchs Dataset: http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/
 
 ## How to use
 
@@ -26,7 +36,7 @@ Run "res34_model_training_with_STL.py" to train a model. The pretrained model is
 
 Run "test_with_STL_kmeans.py" to test with K-Means clustering.
 
-Welcome to cite our work (bib):
+## Welcome to cite our work (bib):
 
 ``` 
 @misc{Chen2021augnet,
