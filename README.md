@@ -40,7 +40,7 @@ Run "res34_model_training_with_STL.py" to train a model. The pretrained model is
 
 Run "test_with_STL_kmeans.py" to test with K-Means clustering.
 
-## Welcome to cite our work (bib):
+## Welcome to cite our work:
 
 ``` 
 @misc{Chen2021augnet,
