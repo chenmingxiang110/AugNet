@@ -8,13 +8,19 @@ In our work, we propose AugNet, a new deep learning training paradigm to learn i
 
 The left most images are the queries. The images are sorted based on the distances of image embeddings.
 
-<img src="./imgs/cartoon_faces.png" width="600">
+### Anime Illustrations:
 
-<img src="./imgs/cartoon_pokemon2.png" width="600">
+<img src="./imgs/cartoon_faces.png" width="700">
 
-<img src="./imgs/cartoon_sketch.png" width="600">
+### Pokemon:
 
-Data Source:
+<img src="./imgs/cartoon_pokemon2.png" width="700">
+
+### Humans Sketchs:
+
+<img src="./imgs/cartoon_sketch.png" width="700">
+
+### Data Source:
 
 The Anime Illustrations Dataset: https://www.kaggle.com/mylesoneill/tagged-anime-illustrations
 
