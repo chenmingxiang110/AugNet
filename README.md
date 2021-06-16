@@ -43,7 +43,7 @@ Run "test_with_STL_kmeans.py" to test with K-Means clustering.
 ## Welcome to cite our work:
 
 ``` 
-@misc{Chen2021augnet,
+@misc{chen2021augnet,
     title={AugNet: End-to-End Unsupervised Visual Representation Learning with Image Augmentation},
     author={Mingxiang Chen and Zhanguo Chang and Haonan Lu and Bitao Yang and Zhuang Li and Liufang Guo and Zhecheng Wang},
     year={2021},
