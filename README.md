@@ -6,7 +6,7 @@ In our work, we propose AugNet, a new deep learning training paradigm to learn i
 
 ## Image Retrieval Examples:
 
-The left most images are the queries. The images are sorted based on the distances of image embeddings.
+The left most images are the queries. The images are sorted based on the distances between their embeddings to the queries'.
 
 ### Anime Illustrations:
 
