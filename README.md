@@ -29,9 +29,9 @@ Run "test_with_STL_kmeans.py" to test with K-Means clustering.
 Welcome to cite our work (bib):
 
 ``` 
-@misc{gao2020learn,
+@misc{Chen2021augnet,
     title={AugNet: End-to-End Unsupervised Visual Representation Learning with Image Augmentation},
-    author={Mingxiang Chen, Zhanguo Chang, Haonan Lu, Bitao Yang, Zhuang Li, Liufang Guo, and Zhecheng Wang},
+    author={Mingxiang Chen and Zhanguo Chang and Haonan Lu and Bitao Yang and Zhuang Li and Liufang Guo and Zhecheng Wang},
     year={2021},
     eprint={2106.06250},
     archivePrefix={arXiv},
