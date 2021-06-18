@@ -28,7 +28,7 @@ dist = imgsim.distance(vec0, vec1)
 print("distance =", dist)
 ```
 
-## Image Retrieval Examples:
+## Image Comparision Examples:
 
 Please download the STL10 dataset from:
 https://cs.stanford.edu/~acoates/stl10/
@@ -40,7 +40,7 @@ and put the pth file under "./models"
 
 Run "res34_model_training_with_STL.py" if you would like to train your own model. Run "test_with_STL_kmeans.py" to test with K-Means clustering.
 
-The left most images are the queries. The images are sorted based on the distances between their embeddings to the queries'.
+The followings are some image comparison examples. The left most images are the queries. The rest images are the topK most similar images that the algorithm found from the dataset based on the distances between the embeddings to the queries'. 
 
 ### Anime Illustrations:
 
