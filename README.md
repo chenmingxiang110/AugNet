@@ -54,6 +54,8 @@ Example code:
 import imgsim
 import cv2
 
+vtr = imgsim.Vectorizer()
+
 img0 = cv2.imread("img0.png")
 img1 = cv2.imread("img1.png")
 
