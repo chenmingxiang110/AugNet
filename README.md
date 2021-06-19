@@ -1,5 +1,5 @@
 <a href="https://github.com/chenmingxiang110/AugNet">
-<img alt="Logo" src="https://github.com/chenmingxiang110/AugNet/imgs/cartoon_pokemon.png">
+<img alt="Logo" src="https://github.com/chenmingxiang110/AugNet/raw/main/imgs/cartoon_pokemon.png">
 </a>
 
 # AugNet
