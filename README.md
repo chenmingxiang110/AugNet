@@ -1,3 +1,7 @@
+<a href="https://github.com/chenmingxiang110/AugNet">
+<img alt="Logo" src="https://github.com/chenmingxiang110/AugNet/imgs/cartoon_pokemon.png">
+</a>
+
 # AugNet
 
 > <cite> AugNet: End-to-End Unsupervised Visual Representation Learning with Image Augmentation [arxiv link](https://arxiv.org/abs/2106.06250)</cite>
