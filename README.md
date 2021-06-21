@@ -46,7 +46,7 @@ Run "res34_model_training_with_STL.py" if you would like to train your own model
 
 The followings are some image comparison examples. The left most images are the queries. The rest images are the topK most similar images that the algorithm found from the dataset based on the distances between the embeddings to the queries'. 
 
-### 
+### Paris6k
 
 <img src="./imgs/sim_find_vis_wide.png" width="700">
 
