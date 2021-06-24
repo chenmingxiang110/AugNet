@@ -42,7 +42,7 @@ Please download the pretrained model from:
 https://drive.google.com/file/d/1pV3EBZPDDc3z_YKdRJu6ZBF5yn_IHhsK/view?usp=sharing
 and put the pth file under "./models"
 
-Run "res34_model_training_with_STL.py" if you would like to train your own model. Run "test_with_STL_kmeans.py" to test with K-Means clustering.
+Run "res34_model_training_with_STL.py" if you would like to train your own model. Run "kmeans_demo.ipynb" to test with K-Means clustering.
 
 The followings are some image comparison examples. The left most images are the queries. The rest images are the topK most similar images that the algorithm found from the dataset based on the distances between the embeddings to the queries'. 
 
