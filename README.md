@@ -86,5 +86,4 @@ Reference: http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/
 ## TODO:
 
 1. batch vectorization
-
 2. multiple gpu
