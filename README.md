@@ -11,7 +11,7 @@ In our work, we propose AugNet, a new deep learning training paradigm to learn i
 ## Install
 
 ```
-pip install imgsim
+pip install imgsim==0.1.2
 ```
 
 ## Usage
