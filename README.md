@@ -34,6 +34,9 @@ vecs = vtr.vectorize(imgs)
 
 dist = imgsim.distance(vec0, vec1)
 print("distance =", dist)
+
+dist = imgsim.distance(vecs[0], vecs[1])
+print("distance =", dist)
 ```
 
 ## Image Comparision Examples:
