@@ -28,6 +28,10 @@ img1 = cv2.imread("img1.png")
 vec0 = vtr.vectorize(img0)
 vec1 = vtr.vectorize(img1)
 
+# img0's shape equals img1's shape. imgs.shape equals (batch, height, width, 3)
+imgs = np.array([img0, img1])
+vecs = vtr.vectorize(imgs)
+
 dist = imgsim.distance(vec0, vec1)
 print("distance =", dist)
 ```
