@@ -91,5 +91,3 @@ Reference: http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/
 ```
 
 ## TODO:
-
-1. multiple gpu
