@@ -161,6 +161,26 @@ class Net_5(nn.Module):
         h = self.act(h5)
         return (h1, h2, h3, h4, h5), h
 
+class Net18(nn.Module):
+
+    def __init__(self, path_pre=None, gpus=[]):
+        super(Net18, self).__init__()
+        self.pre = models.resnet18(pretrained=False)
+        
+        if path_pre is not None:
+            self.pre.load_state_dict(torch.load(path_pre))
+            
+        self.pre.fc = Identity()
+        self.act = nn.Tanh()
+        
+        if len(gpus) > 1:
+            self.pre = nn.DataParallel(self.pre, gpus)
+
+    def forward(self, x):
+        h = self.pre(x)
+        h = self.act(h)
+        return h
+
 class Net34(nn.Module):
 
     def __init__(self, path_pre=None, gpus=[]):
