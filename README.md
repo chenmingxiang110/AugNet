@@ -27,7 +27,6 @@ img1 = cv2.imread("img1.png")
 
 vec0 = vtr.vectorize(img0)
 vec1 = vtr.vectorize(img1)
-vecs = vtr.vectorize(np.array([img0, img1]))
 
 dist = imgsim.distance(vec0, vec1)
 print("distance =", dist)
