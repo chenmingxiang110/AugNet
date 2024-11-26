@@ -19,6 +19,8 @@ pip install imgsim==0.1.2
 ```
 import imgsim
 import cv2
+import numpy as np
+
 
 vtr = imgsim.Vectorizer()
 
